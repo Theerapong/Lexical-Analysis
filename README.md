@@ -11,16 +11,27 @@ This software will be proceed "Lexical analysis" from source code into a text fi
         
 Then, show the results to be "Token stream" following:
 (แล้วให้ได้ผลลัพท์เป็น Token stream ดังต่อไปนี้)
+
       IF
+      
       LPAREN
+      
       ID(a)
+      
       GEQ
+      
       ID(b)
+      
       RPAREN
+      
       ID(b)
+      
       BECOMES
+      
       INT(42)
+      
       SCOLON
+      
 แล้วให้นำผลลัพธ์ที่ได้บันทึกไว้ใน Text file
 
 # รายละเอียดของโปรแกรม
