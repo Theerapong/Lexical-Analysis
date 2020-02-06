@@ -1,10 +1,16 @@
-# Tnis is the project from Principles of Programming called LexicalAnalysis".
-การบ้านวิชาหลักภาษาโปรแกรม
+# Project from Principles of Programming subject called LexicalAnalysis".
+(การบ้านวิชาหลักภาษาโปรแกรม)
 
-# โจทย์
- ให้เขียนโปรแกรมการทำ Lexical analysis จาก Source code ที่อยู่ใน Text file ดังต่อไปนี้
+# Topic/Question 
+(โจทย์)
+
+This software will be proceed "Lexical analysis" from source code into a text file following:
+(ให้เขียนโปรแกรมการทำ Lexical analysis จาก Source code ที่อยู่ใน Text file ดังต่อไปนี้)
+
  	      if (a >= b) b = 42;
- แล้วให้ได้ผลลัพท์เป็น Token stream ดังต่อไปนี้
+        
+Then, show the results to be "Token stream" following:
+(แล้วให้ได้ผลลัพท์เป็น Token stream ดังต่อไปนี้)
       IF
       LPAREN
       ID(a)
