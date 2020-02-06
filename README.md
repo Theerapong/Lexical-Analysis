@@ -1,6 +1,4 @@
-# LexicalAnalysis
-
-
+# Tnis is the project from Principles of Programming called LexicalAnalysis".
 การบ้านวิชาหลักภาษาโปรแกรม
 
 # โจทย์
