@@ -32,7 +32,11 @@ Then, show the results to be "Token stream" following:
       
       SCOLON
       
-แล้วให้นำผลลัพธ์ที่ได้บันทึกไว้ใน Text file
+      
+   
+Then, save these results into text file.
+
+(แล้วให้นำผลลัพธ์ที่ได้บันทึกไว้ใน Text file)
 
 # รายละเอียดของโปรแกรม
 
