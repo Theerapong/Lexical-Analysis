@@ -5,11 +5,13 @@
 (โจทย์)
 
 This software will be proceed "Lexical analysis" from source code into a text file following:
+
 (ให้เขียนโปรแกรมการทำ Lexical analysis จาก Source code ที่อยู่ใน Text file ดังต่อไปนี้)
 
  	      if (a >= b) b = 42;
         
 Then, show the results to be "Token stream" following:
+
 (แล้วให้ได้ผลลัพท์เป็น Token stream ดังต่อไปนี้)
 
       IF
