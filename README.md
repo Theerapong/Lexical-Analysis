@@ -1,4 +1,4 @@
-*(This project was a part of studying at Kasetsart University)*
+*(This project was a part of studying at Kasetsart University, Thailand)*
 
 # Project from Principles of Programming subject called LexicalAnalysis".
 (การบ้านวิชาหลักภาษาโปรแกรม)
