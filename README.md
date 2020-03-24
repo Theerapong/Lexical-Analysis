@@ -45,12 +45,16 @@ Then, save these results into text file.
 # รายละเอียดของโปรแกรม
 
 There are 2 classes following:
+
 มี 2 Class คือ
 
 (1) "MyMain" class. and there is main method.
+
 Class ชื่อ MyMain, มี Main method
 
-(2) The "LexicalAnalysis" class, there are methods following:	
+
+(2) The "LexicalAnalysis" class, there are methods following:
+
 Class ชื่อ LexicalAnalysis มี Method ดังนี้:
 
 -	setSourceCodeInOneLine
