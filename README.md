@@ -65,4 +65,5 @@ Class ชื่อ LexicalAnalysis มี Method ดังนี้:
   
   
        Software will read data from the file named "My_Input.txt", then save the result to the file named "My_Output.txt", in the same directory.
+       
       โดยโปรแกรมจะอ่านข้อมูลจากไฟล์ชื่อ My_Input.txt แล้วบันทึกผลลัพธ์ไปยังไฟล์ชื่อ My_Output.txt ใน Directory เดียวกับตัวโปรแกรม
